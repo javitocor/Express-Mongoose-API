@@ -32,6 +32,7 @@ Additional description about the project and its features.
 - NPM
 - EXPRESS
 - MONGOOSE
+- BABEL
 - NODE
 - ESLINT
 - VSCODE
